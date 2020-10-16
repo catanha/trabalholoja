@@ -1,0 +1,11 @@
+body {
+  background-image: url("https://i.pinimg.com/originals/dc/3e/31/dc3e31ae842338672d38642b05773060.jpg");
+  background-repeat: no-repeat, repeat;
+  background-size: auto;
+}
+
+.imagem-mostruario {
+  height: 250px;
+  width: 250px;
+  object-fit: contain;
+}
